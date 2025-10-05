@@ -1,4 +1,4 @@
 # apna-demo
 This is my git repository.
 <br>
-Author - Aman Kumar.(slef learner)
+Author - Aman Kumar.(self learner)
